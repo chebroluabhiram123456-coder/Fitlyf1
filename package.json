@@ -1,0 +1,16 @@
+{
+  "name": "workout-ui",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": { "start": "expo start" },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.24",
+    "expo": "~50.0.0",
+    "expo-linear-gradient": "^12.7.0",
+    "expo-image-picker": "^14.7.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0"
+  }
+}
